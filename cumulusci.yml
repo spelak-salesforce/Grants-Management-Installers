@@ -10,7 +10,7 @@ project:
         namespace: sfdo_grants
         api_version: "52.0"
     git:
-        repo_url: https://github.com/spelak-salesforce/Grants-Management-Installers.git
+        repo_url: https://github.com/spelak-salesforce/Grants-Management-Installers
     dependencies:
         - github: https://github.com/SalesforceFoundation/sfdo-base
         - github: https://github.com/SalesforceFoundation/OutboundFunds
